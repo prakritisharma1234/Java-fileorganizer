@@ -1,0 +1,11 @@
+*.class
+*.log
+organized_files_log.txt
+target/
+out/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
