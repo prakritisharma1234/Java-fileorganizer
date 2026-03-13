@@ -53,7 +53,7 @@ YourFolder/
 ## 📊 Example Output
 ```
 *** DRY-RUN MODE ENABLED *** (No files will be moved)
-Starting file organization for: C:\Users\TheProper\Downloads
+Starting file organization for: C:\Users\prakriti\Downloads
 Mode: DRY-RUN
 
 [DRY RUN] Would move: photo.jpg -> Images/2024/photo.jpg
@@ -64,7 +64,7 @@ Mode: DRY-RUN
 Files scanned: 156
 Files moved: 142
 Files skipped: 14
-Log saved to: C:\Users\TheProper\Downloads\organized_files_log.txt
+Log saved to: C:\Users\prakriti\Downloads\organized_files_log.txt
 ```
 
 ## 🧑‍💻 For Developers / IDE Users
